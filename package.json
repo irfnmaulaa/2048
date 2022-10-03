@@ -1,0 +1,14 @@
+{
+  "name": "2048",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/irfnmaulaa/2048",
+  "author": "Ahmad Irfan Maulana <irfnmaulaa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
